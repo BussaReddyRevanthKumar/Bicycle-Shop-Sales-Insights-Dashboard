@@ -13,3 +13,27 @@ The Bicycle Shop Sales Dashboard is designed to provide a comprehensive overview
 - How are units sold distributed across different product categories, and which product has the highest unit sales?
 - Which customer contributes the highest to the overall revenue, and what is their exact sales amount?
 - Which country generates the highest percentage of sales, and how does it compare to other countries?
+
+ Dashboard Interaction <a href="https://github.com/BussaReddyRevanthKumar/Bicycle-Shop-Sales-Insights-Dashboard/blob/main/Dashboard.jpg">View Dashboard</a>
+
+ ## Process
+- Data Collection:
+  Gather sales data from different sources (Excel files, databases, etc.) for the years 2021 and 2022, including sales, profit, units sold, customer details, product data, and country- 
+  wise sales.
+
+- Data Cleaning & Preparation:
+  Clean the data by removing errors, duplicates, and formatting issues. Organize the data into clear tables for analysis.
+
+- Create Pivot Tables & Charts:
+  Use Excel PivotTables and charts (bar charts, pie charts, line graphs) to summarize and visualize key metrics like total sales, profit, units sold, and segment breakdowns.
+
+- Design the Dashboard Layout:
+  Arrange visual elements logically—KPIs at the top, trends over time in the middle, and breakdowns (by customer, product, country) at the bottom. Use slicers for Year and Month filters.
+
+- Add Interactivity:
+  Include slicers and drop-downs for easy filtering by Year, Month, Product, and Customer segments.
+
+- Finalization & Review:
+  Format charts, adjust colors, add data labels, and ensure clarity. Review the dashboard for accuracy and completeness.
+
+
