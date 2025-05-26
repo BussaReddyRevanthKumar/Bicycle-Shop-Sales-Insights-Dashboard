@@ -66,7 +66,7 @@ The Bicycle Shop Sales Dashboard is designed to provide a comprehensive overview
 - Trends:
   Monthly sales and profit trends indicate seasonality and fluctuations across months, with noticeable peaks and dips that can inform future forecasting and inventory management.
 
-## Final Conclusion
+## Final Conclusion:
 This sales dashboard provides a clear and comprehensive view of the Bicycle Shop’s sales performance across key metrics like total sales, profit, customer contribution, product distribution, and country-wise breakdown. With interactive visualizations and insights, it helps stakeholders make data-driven decisions, identify top-selling products, and track growth opportunities effectively. The dashboard serves as a valuable tool for optimizing business strategies and improving sales outcomes.
 
 
