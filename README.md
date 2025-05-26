@@ -5,7 +5,7 @@ The Bicycle Shop Sales Dashboard is designed to provide a comprehensive overview
 ## Dataset Used
 - <a href="https://github.com/BussaReddyRevanthKumar/Bicycle-Shop-Sales-Insights-Dashboard/blob/main/Bicycle_shop_Sales%20Data_Dashboard.xlsx">Dataset</a>
 
-## Questions (KPI's)
+## Questions (KPI's):
 - What is the overall sales growth year-over-year (YoY) between 2021 and 2022?
 - What is the current profit margin, and how does it vary across different customer segments (Government, Small Business, Enterprise)?
 - Which product has generated the highest revenue, and what percentage of total sales does it represent?
@@ -16,7 +16,7 @@ The Bicycle Shop Sales Dashboard is designed to provide a comprehensive overview
 
  Dashboard Interaction <a href="https://github.com/BussaReddyRevanthKumar/Bicycle-Shop-Sales-Insights-Dashboard/blob/main/Dashboard.jpg">View Dashboard</a>
 
- ## Process
+ ## Process:
 - Data Collection:
   Gather sales data from different sources (Excel files, databases, etc.) for the years 2021 and 2022, including sales, profit, units sold, customer details, product data, and country- 
   wise sales.
