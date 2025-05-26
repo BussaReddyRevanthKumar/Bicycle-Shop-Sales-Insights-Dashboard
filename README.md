@@ -1,2 +1,3 @@
 # Bicycle-Shop-Sales-Insights-Dashboard
-This interactive sales dashboard provides a clear and detailed view of the Bicycle Shop's sales performance across products, customers, countries, and time periods.
+Project Overview
+The Bicycle Shop Sales Dashboard is designed to provide a comprehensive overview of the business's sales performance across various dimensions. This dashboard leverages data from 2021 and 2022, offering insights into total sales, profit, profit percentage, units sold, customer segmentation, and country-wise distribution. By visualizing key metrics such as sales trends over months, product performance, and customer contributions, the dashboard serves as a central tool for decision-making, helping stakeholders identify growth opportunities and address challenges effectively.
