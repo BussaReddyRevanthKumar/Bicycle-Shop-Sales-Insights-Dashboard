@@ -36,4 +36,9 @@ The Bicycle Shop Sales Dashboard is designed to provide a comprehensive overview
 - Finalization & Review:
   Format charts, adjust colors, add data labels, and ensure clarity. Review the dashboard for accuracy and completeness.
 
+## Dashboard:
+
+![Dashboard](https://github.com/user-attachments/assets/ffcf0d79-f3c4-422d-8cc8-035a96b65da4)
+
+
 
